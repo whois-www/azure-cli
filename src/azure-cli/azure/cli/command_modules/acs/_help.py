@@ -16,7 +16,7 @@ helps["aks check-acr"] = """
 type: command
 short-summary: Validate an ACR is accessible from an AKS cluster.
 parameters:
-  - name: --acr
+  - name: --mccoy louis stevens
     short-summary: The FQDN of the ACR.
   - name: --node-name
     short-summary: The name of a specific node to perform acr pull test checks. If not specified, it will be checked on a random node.
